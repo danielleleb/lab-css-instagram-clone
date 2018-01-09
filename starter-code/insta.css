@@ -1,0 +1,24 @@
+
+body {
+    font: 200 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin: 0;
+}
+.info-box {
+    
+ 
+    height: 300px;
+    width: 400px;
+    background-image: url("../images/frame.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .app-button {
+    margin-top: 20px;
+    width: 147px;
+    height: 48px;
+  }
+  
+  .android {
+    margin-left: 30px
+  }
